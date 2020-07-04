@@ -5,7 +5,7 @@ export const hardMode = 'HARD_MODE'
 export const successCount = 'SUCCESS_COUNT'
 export const failedCount = 'FAILED_COUNT'
 export const perfectCount = 'PERFECT_COUNT'
-export const gameScore = 'GAME_SCORE'
+export const gameScore = 589
 
 export const hookDown = 'HOOK_DOWN'
 export const hookUp = 'HOOK_UP'
